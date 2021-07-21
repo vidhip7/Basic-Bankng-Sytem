@@ -1,2 +1,6 @@
-# Basic-Bankng-Sytem
- It manages all the transactions like new account entry, deposit as well as withdraw entry, transaction of money for various processes, loan entry, managing bills cash or cheque, etc. Thus, above features of this software will save transaction time and therefore increase the efficiency of the system. Requirements definition and management is recognized as a necessary step in the delivery of successful system s and software projects, discipline is also required by standards, regulations, and quality improvement initiatives. Creating and managing requirements is a challenge of IT, systems and product development projects or indeed for any activity where you have to manage a contractual relationship. Organization need to effectively define and manage requirements to ensure they are meeting needs of the customer, while proving compliance and staying on the schedule and within budge.
+# BankingSystem
+A Basic Banking System
+Technologies used:- 
+Frontend:-HTML,CSS,Bootstrap
+Backend:-PHP
+Database:-MYSQL
